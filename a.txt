@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 just just just
+=======
+dfsssfasdfsfsdfsadfasdfsdfasfafsfdsdfsfdasfd
+>>>>>>> 96e49748e2fb6981b4268e5372377d347f0f8b0d
